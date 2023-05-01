@@ -4,4 +4,4 @@
 
 TODO:
 
--[ ] make it in rust or research a more suiteble language in order to run this from the terminal.
+- [ ] make it in rust or research a more suiteble language in order to run this from the terminal.
